@@ -14,6 +14,7 @@
 ## Lenguajes y Herramientas:
 #### Programacion Web
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,github)](https://skillicons.dev)
 
 #### Programacion escritorio
