@@ -13,10 +13,11 @@
 
 ## Lenguajes y Herramientas:
 #### Programacion Web
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,github)](https://skillicons.dev)
 
 #### Programacion escritorio
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,mysql,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,)](https://skillicons.dev)
 
 <!-- 
 
