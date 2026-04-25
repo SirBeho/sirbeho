@@ -21,7 +21,7 @@ Bienvenido a mi espacio, donde comparto proyectos diseñados para resolver probl
 
 **Frontend:** <br> [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js)](https://skillicons.dev) <img src="./svg/NativeScript.png" height="48"> <img src="./svg/inertia.svg" height="48"> [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap)](https://skillicons.dev) <img src="./svg/serviceworker.svg" height="48">
 
-**Backend & Databases:** <br> [![My Skills](https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,mysql,firebase,gmail)](https://skillicons.dev) <img src="https://avatars.githubusercontent.com/u/130129149?v=4" height="48"><img src="./svg/webpush.svg" height="48">
+**Backend & Databases:** <br> [![My Skills](https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,mysql,firebase,gmail)](https://skillicons.dev) <img src="./svg/websocket.svg" height="48"> <img src="./svg/webpush.svg" height="48">
 
 ### **Ingeniería de Sotware & Lenguajes Base**
 
