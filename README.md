@@ -1,37 +1,56 @@
-# Benjamin Tavarez | Desarollador Web Full Stack
+# Hi there! I'm Benjamin Tavarez 👋
 
-> Hola, Soy Benjamin, encantado de conocerte. Este es mi repositorio , aqui encontraras algunos de los proyecto que eh desarrollado, espero puedan interesarte. 
+### Ingeniero de Sistemas | Full Stack Developer
 
-> Estoy altamente comprometido al crecimiento y éxito de quien requiera mis servicios, aplicando mis conocimientos y experiencia en el área de desarrollo y mis habilidades organizativas, de comunicación y trabajo en equipo,lo que me convierte en un recurso valioso para cualquier proyecto.
+> _Diseñando soluciones elegantes para problemas complejos._
+
+Bienvenido a mi espacio, donde comparto proyectos diseñados para resolver problemas reales a través de tecnología eficiente con una arquitectura impecable y elegancia tecnica.
 
 ## Sobre mi:
-- Soy una persona dinámica con una fuerte iniciativa en el aprendizaje constante.
-- Soy Desarrollador Web Full stack.
-- Estudio Ing. Sistemas computacionaes.
-- Me especializo en el diseño y desarrollo de software.
 
+> Mi compromiso es impulsar el éxito de cada proyecto integrando mi experiencia en desarrollo Full Stack con una visión estratégica y organizativa, asegurando no solo la calidad del código, sino la transformacion de desafíos complejos en soluciones digitales de alto impacto , logrando una ejecución fluida que entregue resultados elegantes alineados con los objetivos del negocio.
 
-## Lenguajes y Herramientas:
-#### Programacion Web:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next)](https://skillicons.dev)
+- 🎓 Ingeniero de Sistemas Computacionales & Full Stack Developer
+- ⚡ Perfil: Profesional enfocado en la resolución ágil de problemas y la evolución tecnológica constante.
+- 🎯 Especialidad: Diseño y desarrollo de software basado en arquitecturas escalables.
+- 🏛️ Filosofía: Crear soluciones robustas con una arquitectura limpia y **elegancia técnica**, priorizando siempre la experiencia del usuario.
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,github)](https://skillicons.dev)
+## 🛠️ Tech Stack
 
-#### Conocimientos basicos:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,blender,unity,visualstudio,powershell)](https://skillicons.dev)
+### **Desarrollo Web (Core Full Stack)**
 
-<!-- 
+**Frontend:** <br> [![My Skills](https://skillicons.dev/icons?i=react,nextjs,js)](https://skillicons.dev) <img src="./svg/NativeScript.png" height="48"> <img src="./svg/inertia.svg" height="48"> [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap)](https://skillicons.dev) <img src="./svg/serviceworker.svg" height="48">
 
-![a](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirbeho&theme=algolia)
+**Backend & Databases:** <br> [![My Skills](https://skillicons.dev/icons?i=php,laravel,nestjs,nodejs,mysql,firebase,gmail)](https://skillicons.dev) <img src="https://avatars.githubusercontent.com/u/130129149?v=4" height="48"><img src="./svg/webpush.svg" height="48">
 
-  ![Herbert's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbeho&theme=blue-green&locale=es&langs_count=10&hide=C)
+### **Ingeniería de Sotware & Lenguajes Base**
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirbeho&repo=Autentification&theme=blue-green)](https://github.com/sirbeho/Autentification)
- -->
+**Lenguajes:** <br> [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java)](https://skillicons.dev) <img src='./svg/rpg.svg' height="48" > <img src='./svg/rpgfullfree.svg' height="48" >
 
-## Contactame:
+**Entornos de Desarrollo:** <br> [![My Skills](https://skillicons.dev/icons?i=visualstudio,androidstudio)](https://skillicons.dev) <img src='./svg/pdf.svg' height="48" ><img src='./svg/NetBeans.svg' height="48" > <img src='./svg/ibmi.svg' height="48" >
 
-- Mi Linkedin: [Benjamin Tavarez Cruceta](https://www.linkedin.com/in/benjamin-tavarez-cruceta-052aa623b/)
-- Correo: Benjamin.tavarez.98@gmail.com
+### **Herramientas & Diseño**
 
+**DevOps & Gestión:** <br> [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,rabbitmq,terraform,aws,postman,powershell,gmail)](https://skillicons.dev)
 
+**Diseño & Multimedia:** <br> [![My Skills](https://skillicons.dev/icons?i=blender,unity,figma,canva)](https://skillicons.dev)
+
+**Testing & Quality Assurance:** <br> <img src="./svg/phpunit.svg" height="48"> [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) <img src="./svg/supertest.png" height="48"> [![My Skills](https://skillicons.dev/icons?i=cypress)](https://skillicons.dev)
+
+---
+
+> **"Obtengo la idea (Diseño & Multimedia), selecciono mis herramientas (DevOps), construyo cosas (Technical Stack) y me aseguro de que no se rompan (Testing)."**
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirBeho&layout=compact&theme=tokyonight&locale=es" height="170" alt="languages" />
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/benjamin-tavarez-cruceta-052aa623b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:benjamin.tavarez.98@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
