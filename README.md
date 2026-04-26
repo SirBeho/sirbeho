@@ -31,7 +31,7 @@ Bienvenido a mi espacio, donde comparto proyectos diseñados para resolver probl
 
 ### **Herramientas & Diseño**
 
-**DevOps & Gestión:** <br> [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,rabbitmq,terraform,aws,postman,powershell,gmail)](https://skillicons.dev)
+**DevOps & Gestión:** <br> [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,rabbitmq,terraform,aws,postman,powershell)](https://skillicons.dev)
 
 **Diseño & Multimedia:** <br> [![My Skills](https://skillicons.dev/icons?i=blender,unity,figma,canva)](https://skillicons.dev)
 
@@ -39,7 +39,7 @@ Bienvenido a mi espacio, donde comparto proyectos diseñados para resolver probl
 
 ---
 
-> **"Obtengo la idea (Diseño & Multimedia), selecciono mis herramientas (DevOps), construyo cosas (Technical Stack) y me aseguro de que no se rompan (Testing)."**
+> **"Obtengo la idea (Diseño), selecciono mis herramientas (DevOps), construyo cosas (Technical Stack) y me aseguro de que no se rompan (Testing)."**
 
 ---
 
